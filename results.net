@@ -1,0 +1,24 @@
+Destination: 1
+Source: 1		 Destination: 1	 	 Route: -1		 Cost: 0
+Source: 0		 Destination: 1	 	 Route: 1		 Cost: 2.0
+Source: 3		 Destination: 1	 	 Route: 1		 Cost: 2.0
+Source: 2		 Destination: 1	 	 Route: 1		 Cost: 1.0
+
+Destination: 0
+Source: 1		 Destination: 0	 	 Route: 0		 Cost: 2.0
+Source: 0		 Destination: 0	 	 Route: -1		 Cost: 0
+Source: 3		 Destination: 0	 	 Route: 1		 Cost: 4.0
+Source: 2		 Destination: 0	 	 Route: 1		 Cost: 3.0
+
+Destination: 3
+Source: 1		 Destination: 3	 	 Route: 3		 Cost: 2.0
+Source: 0		 Destination: 3	 	 Route: 1		 Cost: 4.0
+Source: 3		 Destination: 3	 	 Route: -1		 Cost: 0
+Source: 2		 Destination: 3	 	 Route: 1		 Cost: 3.0
+
+Destination: 2
+Source: 1		 Destination: 2	 	 Route: 2		 Cost: 1.0
+Source: 0		 Destination: 2	 	 Route: 1		 Cost: 3.0
+Source: 3		 Destination: 2	 	 Route: 1		 Cost: 3.0
+Source: 2		 Destination: 2	 	 Route: -1		 Cost: 0
+
